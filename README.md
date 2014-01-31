@@ -8,7 +8,8 @@ Please check out the README pages in the specific directories for more informati
 
 Directory structure
 -------------------
-zabbix-linux/lld:		Used for low-level discovery scripts
+zabbix-linux/LLD:							Used for low-level discovery scripts
+zabbix-linux/UserParameters:	Used for custom Zabbix keys 
 
 More information
 ----------------
