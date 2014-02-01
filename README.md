@@ -10,6 +10,7 @@ Directory structure
 -------------------
 zabbix-linux/LLD:							Used for low-level discovery scripts
 zabbix-linux/UserParameters:	Used for custom Zabbix keys 
+zabbix-templates:							Used for ready-to-use Zabbix Templates
 
 More information
 ----------------
