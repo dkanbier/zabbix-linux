@@ -4,7 +4,7 @@ These scripts are intended to be used by the Zabbix Agent to enable low-level di
 
 Scripts and usage
 -----------------
-queryDisks.pl - [Monitoring disk I/O using Zabbix](http://www.denniskanbier.nl/blog/monitoring/monitoring-disk-io-using-zabbix)
+* queryDisks.pl - [Low-level discovery of disk devices](http://www.denniskanbier.nl/blog/monitoring/monitoring-disk-io-using-zabbix)
 
 Help
 ----
