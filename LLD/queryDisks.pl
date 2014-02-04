@@ -32,7 +32,7 @@ print "{\n";
 print "\t\"data\":[\n\n";
 
 # Fetch the data and put it in an array
-my @_data = `cat /proc/diskstats | awk '{ print \$3 }'`;
+my @_data = `cat $_proc | awk '{ print \$3 }'`;
 chomp @_data;
 
 # Read the array and print the wanted data
